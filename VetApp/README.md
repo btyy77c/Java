@@ -8,3 +8,5 @@ A list of Veterinarians in the office
 
 The program can add new animals and new Veterinarians.  It can also assign animals
 to the next available Veterinarian.
+
+src/ui/VetAppGUI.java is the main file that will run the program
